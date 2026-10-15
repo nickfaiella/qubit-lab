@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets (never commit API keys)
+.env
+.streamlit/secrets.toml
+
+# Personal save files
+grades.json
+highscores.json
+
+# OS clutter
+.DS_Store

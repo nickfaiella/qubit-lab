@@ -1,0 +1,7 @@
+# Theme: cool lab white with a deep violet accent
+[theme]
+base = "light"
+primaryColor = "#6A3FCF"
+backgroundColor = "#F5F6FA"
+secondaryBackgroundColor = "#E7E9F3"
+textColor = "#1C1F3A"
